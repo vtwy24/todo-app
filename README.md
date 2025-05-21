@@ -12,4 +12,4 @@
 <p>The UI features a clean and aesthetic design for a smooth user experience.</p>
 
 <h2>Demo</h2>
-<a href:"https://exquisite-nougat-181ed3.netlify.app/"> Click here for demo</a>
+<a href="https://exquisite-nougat-181ed3.netlify.app/"> Click here for demo</a>
