@@ -1,5 +1,15 @@
 <h1>TODO APP - Vanilla Coding</h1>
-<p> A simple todo app that you can add, check and delete as you go along. Using vanilla coding consisting of html, css and javascript, the tasks are saved onto localStorage so you won't lose track even when page is refreshed.</p>
+<p>A minimalist and responsive To-Do list application built using vanilla HTML, CSS, and JavaScript. This app allows users to:</p>
+
+<ul>
+<li>✍️ Add tasks to their to-do list</li>
+<li>✅ Mark tasks as completed using custom checkboxes</li>
+<li>❌ Delete tasks when no longer needed</li>
+<li>💾 Persist data with Local Storage, so your tasks remain even after refreshing the page</li>
+<li>📊 Track your task progress and see how much you’ve accomplished</li>
+</ul>
+
+<p>The UI features a clean and aesthetic design for a smooth user experience.</p>
 
 <h2>Demo</h2>
-https://exquisite-nougat-181ed3.netlify.app/
+<a href:"https://exquisite-nougat-181ed3.netlify.app/"> Click here for demo</a>
