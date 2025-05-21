@@ -86,6 +86,7 @@ function createTask(task, taskIndex) {
   });
 
   const checkbox = taskLI.querySelector('input');
+  checkbox.checked = task.done;
   checkbox.addEventListener('change', () => {
     tasksArr[taskIndex].done = checkbox.checked;
     storeTask();
